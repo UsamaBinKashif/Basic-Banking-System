@@ -1,0 +1,22 @@
+*::after,
+*,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.cm{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-bottom: 1rem;
+ img{
+   max-width: 18rem;
+ }
+ .col-lg-4{
+   text-align: center;
+
+ }
+
+}
